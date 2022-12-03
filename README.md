@@ -3,6 +3,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Screenshot
 
-![1](https://user-images.githubusercontent.com/55572863/205429756-1a93f4ee-b6cf-481f-8f88-91f8b325dbc6.PNG)
-![2](https://user-images.githubusercontent.com/55572863/205429760-7c759c13-142d-471f-a685-a50137469a92.PNG)
-![3](https://user-images.githubusercontent.com/55572863/205429765-cf2eed55-d3e4-41e1-8c5c-5d3fb92794ea.PNG)
+![1](https://user-images.githubusercontent.com/55572863/205430206-fb429d28-4498-4b82-8d11-368194d922e2.PNG)
+![2](https://user-images.githubusercontent.com/55572863/205430208-9c68a159-6cf7-43e9-bef6-0db7c753065c.PNG)
+![3](https://user-images.githubusercontent.com/55572863/205430211-36897ed3-9f2f-4465-89cb-05b107153d28.PNG)
